@@ -15,7 +15,7 @@
 
 - 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
 
-- 💬 Ask me about **AWS Docker Jenkins Ansible Linux Bash**
+- 💬 Ask me about **AWS Docker Jenkins Ansible Linux git maven **
 
 - 📫 How to reach me **naveen.elwaka1@gmail.com** 
   
